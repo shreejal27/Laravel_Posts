@@ -1,5 +1,7 @@
 @extends('app')
 
 @section('content')
-    Index
+    <div>
+        Posts
+    </div>
 @endsection
